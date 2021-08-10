@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "https://isuru657.github.io/csb-z1ep4/static/css/main.2e56d277.chunk.css",
+    "main.js": "https://isuru657.github.io/csb-z1ep4/static/js/main.4512aa67.chunk.js",
+    "main.js.map": "https://isuru657.github.io/csb-z1ep4/static/js/main.4512aa67.chunk.js.map",
+    "runtime-main.js": "https://isuru657.github.io/csb-z1ep4/static/js/runtime-main.13224b0d.js",
+    "runtime-main.js.map": "https://isuru657.github.io/csb-z1ep4/static/js/runtime-main.13224b0d.js.map",
+    "static/js/2.c90ddb1a.chunk.js": "https://isuru657.github.io/csb-z1ep4/static/js/2.c90ddb1a.chunk.js",
+    "static/js/2.c90ddb1a.chunk.js.map": "https://isuru657.github.io/csb-z1ep4/static/js/2.c90ddb1a.chunk.js.map",
+    "index.html": "https://isuru657.github.io/csb-z1ep4/index.html",
+    "static/css/main.2e56d277.chunk.css.map": "https://isuru657.github.io/csb-z1ep4/static/css/main.2e56d277.chunk.css.map",
+    "static/js/2.c90ddb1a.chunk.js.LICENSE.txt": "https://isuru657.github.io/csb-z1ep4/static/js/2.c90ddb1a.chunk.js.LICENSE.txt",
+    "static/media/bg.e4cc297a.jpeg": "https://isuru657.github.io/csb-z1ep4/static/media/bg.e4cc297a.jpeg",
+    "static/media/covidDW.fc7a984c.png": "https://isuru657.github.io/csb-z1ep4/static/media/covidDW.fc7a984c.png",
+    "static/media/face.99023042.png": "https://isuru657.github.io/csb-z1ep4/static/media/face.99023042.png",
+    "static/media/fnc.319f6763.png": "https://isuru657.github.io/csb-z1ep4/static/media/fnc.319f6763.png",
+    "static/media/secrets.d4d4845a.png": "https://isuru657.github.io/csb-z1ep4/static/media/secrets.d4d4845a.png",
+    "static/media/tmh.966fb6db.png": "https://isuru657.github.io/csb-z1ep4/static/media/tmh.966fb6db.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13224b0d.js",
+    "static/js/2.c90ddb1a.chunk.js",
+    "static/css/main.2e56d277.chunk.css",
+    "static/js/main.4512aa67.chunk.js"
+  ]
+}
